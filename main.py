@@ -64,7 +64,7 @@ class Building:
                 ExportOutputCSV(list(self.ElevatorObjectList[i].SetMemory)[j])
         data2sort = csv.reader(open('temp.csv',newline = ''))
         data2sort = sorted(data2sort, key=operator.itemgetter(1))
-        with open('OutputFinal.csv', 'w', encoding='UTF8', newline='') as f:
+        with open('out.csv', 'w', encoding='UTF8', newline='') as f:
             writer = csv.writer(f)
             writer.writerows(data2sort)
     #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ print override ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
