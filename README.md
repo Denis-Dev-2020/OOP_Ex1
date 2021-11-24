@@ -8,3 +8,26 @@
   
   
 ## Basic Idea - theoretical understanding :
+
+  So after testing different ways to redirect elevators to their destination
+  I found out that distributing all the elevators equaly along the building
+  will not be efficiant due to over using of certain floors such as the 0 floor
+  after testing different call found out that more then 50% percent of calls
+  start at ground (0) floor so I begin my entire elevator system at 0
+  then each call go to different elevator equaly distributed
+  that way we save time on the return also 
+  
+## Implementation :
+  
+  I created an object for the building and after importing json and csv files
+  I took the elevators data from the dictionary and converted it to a list
+  that way it would be easy to navigate with different indexs
+  
+  then for calls I converted them into a stack list and when I took directions for
+  the elevators I converted it to a set so double statements get erased and everything 
+  will be sorted by order , that way the elevator can easly understand operations
+
+ ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/Scheme.png?raw=true)
+
+
+  
