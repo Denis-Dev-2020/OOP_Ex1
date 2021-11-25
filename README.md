@@ -53,7 +53,21 @@
  
 ## Testing :
 
+## Executing :
 
+Bash
+
+run program and will output "out.csv" file , change only 2nd and 3rd argument
+2nd should be building json file (can see example inside Ex1_Building folder)
+3rd should be calls csv file (can see example inside Ex1_Calls folder)
+*note that when executing program you should provide json and csv files without mentioning
+the folder name before , thats because I already included that in the code so run it like this
+
+    python main.py B5.json Calls_a.csv
+
+provided tests - my json and csv files are inside folders so please include that in the 5th argument
+
+    java -jar libs/Ex1_checker_V1.2_obf.jar 333333333 Ex1_Buildings/B4.json out.csv out.log
 
   
   
