@@ -85,7 +85,12 @@ provided tests - my json and csv files are inside folders so please include that
   ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/temp%20file.png?raw=true)
   
   
-## Thats it thank you for reading , till the next project :)
+  ### *Thats it thank you for reading , till the next project :)*
+  
+  
+  <p align="center">
+  ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/python11.png?raw=true)
+  <p>
 
 
 
