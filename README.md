@@ -53,6 +53,12 @@
  
 ## Testing :
 
+  - I tested the import methods that imports json and csv files
+  - on json and csv files tested the correct input types
+  - on json and csv files tested the correct value (value>=0 , value can be negative etc..)
+
+  ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/tests.png?raw=true)
+
 ## Executing :
 
 Bash
