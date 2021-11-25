@@ -27,9 +27,9 @@
   the elevators I converted it to a set so double statements get erased and everything 
   will be sorted by order , that way the elevator can easly understand operations
 
-<center>
+
      ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/Scheme.png?raw=true)
-</center>
+
 
 
 ## Comfortability :
@@ -37,39 +37,23 @@
   I wrote code description on every stage so everybody can understand what's going on
   and also replaced the standard (print) representation of the objects to more UI friendly
   and one can easly understand every stage of the program
-  <p align="center">
-  print(Building):
+
+  ###print(Building):
   
  ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/Building%20header.png?raw=true)
   
-  
-  after every building will be (if uncomment) print(elevator[i]) by order:
-  
+  ###after every building will be (if uncomment) print(elevator[i]) by order:
   
  ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/Elevator%20Repr.png?raw=true)
  
-  then for every elevator will be their specific calls to answer:
-  
+  ###then for every elevator will be their specific calls to answer:
   
   ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/CallRepr.png?raw=true)
-  </p>
+ 
+ 
 ## Testing :
 
 
 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
   
