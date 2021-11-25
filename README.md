@@ -28,7 +28,7 @@
   will be sorted by order , that way the elevator can easly understand operations
 
 
-     ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/Scheme.png?raw=true)
+   ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/Scheme.png?raw=true)
 
 
 
