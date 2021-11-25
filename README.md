@@ -60,8 +60,9 @@ Bash
 run program and will output "out.csv" file , change only 2nd and 3rd argument
 2nd should be building json file (can see example inside Ex1_Building folder)
 3rd should be calls csv file (can see example inside Ex1_Calls folder)
-*note that when executing program you should provide json and csv files without mentioning
-the folder name before , thats because I already included that in the code so run it like this
+
+*note that when executing program you should provide json and csv files without mentioning*
+*the folder name before , thats because I already included that in the code so run it like this*
 
     python main.py B5.json Calls_a.csv
 
