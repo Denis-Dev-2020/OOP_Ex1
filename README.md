@@ -75,6 +75,19 @@ run program and will output "out.csv" file , change only 2nd and 3rd argument
 provided tests - my json and csv files are inside folders so please include that in the 5th argument
 
     java -jar libs/Ex1_checker_V1.2_obf.jar 333333333 Ex1_Buildings/B4.json out.csv out.log
+    
+    
+## Output :
+
+   will output "temp.csv" file that includes calls sorted by elevator number , then import this file sort it and 
+   output "out.csv" file that is sorted by time like in the example on google docs
+   
+  ![name-of-you-image](https://github.com/Denis-Dev-2020/OOP_Ex1/blob/main/ScreenShots/temp%20file.png?raw=true)
+  
+  
+## Thats it thank you for reading , till the next project :)
+
+
 
   
   
